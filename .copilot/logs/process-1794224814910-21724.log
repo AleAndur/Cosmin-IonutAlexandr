@@ -1,0 +1,67 @@
+2026-11-09T11:46:54.913Z [WARNING] [rust:rt_credential_sources::gh] Failed to run `gh auth token` {"error":"program path has no file name","program":""}
+2026-11-09T11:46:54.915Z [INFO] Shell completions: no supported shell detected, skipping
+2026-11-09T11:46:54.918Z [WARNING] [rust:rt_credential_sources::gh] Failed to run `gh auth token` {"error":"program path has no file name","program":""}
+2026-11-09T11:46:54.918Z [INFO] [rust:cafe_metrics::client] CAFE metrics are paused because no supported endpoint is available
+2026-11-09T11:46:54.921Z [WARNING] [rust:rt_credential_sources::gh] Failed to run `gh auth token` {"error":"program path has no file name","program":""}
+2026-11-09T11:46:54.954Z [INFO] Session indexing debug: SESSION_INDEXING=true, repository=undefined
+2026-11-09T11:46:55.206Z [INFO] Taskbar presence: cli-native addon loaded successfully
+2026-11-09T11:46:55.211Z [INFO] Taskbar presence: NO package identity — Create() cannot persist tasks.json (launch via the packaged AUMID)
+2026-11-09T11:46:55.211Z [INFO] Taskbar identity: provisioning result 'skipped-disabled' (shouldRelaunch=false, durationMs=257)
+2026-11-09T11:46:55.218Z [INFO] Taskbar presence: os_build=26200 min_os_build=26100 version=1.0.107 exe="C:\\Users\\Cosmin-IonutAlexandr\\AppData\\Local\\GitHubCopilotCLI\\copilot.exe" exe_built=2026-11-06T17:59:14.000Z exe_size=184106784 packaged=false identity=- identity_reason=skipped-disabled forerunner_build=true flag_enabled=false rollout_flag_enabled=false user_setting_enabled=true shell_task_supported=unknown access_override=- sidecars=n-a icon=unknown interactive=true registration=skipped result=skipped-disabled reason="Taskbar presence is disabled by the TASKBAR_PRESENCE rollout flag." remediation="No user action is required; wait for the rollout flag to be enabled." data={"timestamp":"2026-11-09T11:46:55.211Z","version":"1.0.107","platform":"win32","isSea":true,"isForerunnerBuild":true,"interactive":true,"enabled":false,"rolloutFlagEnabled":false,"userSettingEnabled":true,"relaunchChild":false,"embeddedSidecars":{"copilot-taskbar-activator.exe":true,"GitHubCopilotCLI.sparse.msix":true},"execDir":"C:\\Users\\Cosmin-IonutAlexandr\\AppData\\Local\\GitHubCopilotCLI","osBuild":26200,"minOsBuild":26100,"exePath":"C:\\Users\\Cosmin-IonutAlexandr\\AppData\\Local\\GitHubCopilotCLI\\copilot.exe","exeSize":184106784,"exeModified":"2026-11-06T17:59:14.000Z","aliasPath":"C:\\Users\\Cosmin-IonutAlexandr\\AppData\\Local\\Microsoft\\WindowsApps\\copilot.exe","aliasExists":false,"registrationLive":false,"status":"skipped-disabled","shouldRelaunch":false,"durationMs":257}
+2026-11-09T11:46:55.242Z [INFO] [rust:rt_managed_settings_ingest] [managedSettings] device MDM: no policy present on this device
+2026-11-09T11:46:55.242Z [INFO] [rust:rt_managed_settings_ingest] [managedSettings] effective policy resolved: source=none, bypassDisabled=false, serverFetchFailed=false, policyHelperConfigured=false, policyHelperAuthority=none, policyHelperFailed=false, policyHelperFailClosed=false, policyHelperContributedSandbox=false
+2026-11-09T11:46:55.249Z [INFO] [rust:permission_configuration_runtime::implementation] [managedSettings] applied: no bypass restriction in force (managed policy absent)
+2026-11-09T11:46:55.249Z [WARNING] [rust:copilot_runtime::session::api_session_options_update] Failed to reload managed hooks after enabling managed settings {"error":"no hook session for session id dce565a2-cc51-446f-b443-c86dd1ef5baf"}
+2026-11-09T11:46:55.249Z [INFO] [rust:native_managed_settings::implementation] [managedSettings] self-fetch starting for account (device)
+2026-11-09T11:46:55.250Z [INFO] [rust:rt_managed_settings_ingest] [managedSettings] device MDM: no policy present on this device
+2026-11-09T11:46:55.250Z [INFO] [rust:rt_managed_settings_ingest] [managedSettings] server policy fetch skipped: no authenticated GitHub host available
+2026-11-09T11:46:55.250Z [INFO] [rust:rt_managed_settings_ingest] [managedSettings] effective policy resolved: source=none, bypassDisabled=false, serverFetchFailed=false, policyHelperConfigured=false, policyHelperAuthority=none, policyHelperFailed=false, policyHelperFailClosed=false, policyHelperContributedSandbox=false
+2026-11-09T11:46:55.250Z [INFO] [rust:permission_configuration_runtime::implementation] [managedSettings] applied: no bypass restriction in force (managed policy absent)
+2026-11-09T11:46:55.251Z [INFO] [rust:native_managed_settings::implementation] [managedSettings] self-fetch complete for (device): bypassDisabled=false, serverFetchFailed=false, serverResolution=Live, serverRetryableFailure=false, deviceLoadFailed=false
+2026-11-09T11:46:55.251Z [WARNING] [rust:events_engine::host_delivery] event was not delivered to its registered session host {"error":"GenericFailure, no session host is registered for session dce565a2-cc51-446f-b443-c86dd1ef5baf"}
+2026-11-09T11:46:55.252Z [WARNING] [rust:rt_credential_sources::gh] Failed to run `gh auth token` {"error":"program path has no file name","program":""}
+2026-11-09T11:46:55.267Z [WARNING] [rust:rt_credential_sources::gh] Failed to run `gh auth token` {"error":"program path has no file name","program":""}
+2026-11-09T11:46:55.270Z [INFO] Workspace initialized: dce565a2-cc51-446f-b443-c86dd1ef5baf (checkpoints: 0)
+2026-11-09T11:46:55.271Z [INFO] Starting Copilot CLI: 1.0.107
+2026-11-09T11:46:55.271Z [INFO] Node.js version: v24.22.1
+2026-11-09T11:46:55.273Z [WARNING] [rust:rt_credential_sources::gh] Failed to run `gh auth token` {"error":"program path has no file name","program":""}
+2026-11-09T11:46:55.276Z [WARNING] [rust:rt_credential_sources::gh] Failed to run `gh auth token` {"error":"program path has no file name","program":""}
+2026-11-09T11:46:55.278Z [INFO] Registering foreground session: dce565a2-cc51-446f-b443-c86dd1ef5baf
+2026-11-09T11:46:55.279Z [WARNING] [rust:rt_credential_sources::gh] Failed to run `gh auth token` {"error":"program path has no file name","program":""}
+2026-11-09T11:46:55.286Z [WARNING] [rust:rt_credential_sources::gh] Failed to run `gh auth token` {"error":"program path has no file name","program":""}
+2026-11-09T11:46:55.347Z [INFO] Taskbar presence: startup rollout or package identity unavailable — no taskbar task
+2026-11-09T11:46:55.347Z [INFO] Login status unknown
+2026-11-09T11:46:55.360Z [WARNING] [rust:rt_credential_sources::gh] Failed to run `gh auth token` {"error":"program path has no file name","program":""}
+2026-11-09T11:46:55.363Z [WARNING] [rust:rt_credential_sources::gh] Failed to run `gh auth token` {"error":"program path has no file name","program":""}
+2026-11-09T11:46:55.417Z [INFO] Remote session access disabled
+2026-11-09T11:46:55.417Z [INFO] gh CLI availability check completed
+2026-11-09T11:46:55.420Z [INFO] [rust:rt_managed_settings_ingest] [managedSettings] device MDM: no policy present on this device
+2026-11-09T11:46:55.420Z [INFO] [rust:rt_managed_settings_ingest] [managedSettings] server policy fetch skipped: no authenticated GitHub host available
+2026-11-09T11:46:55.420Z [INFO] [rust:rt_managed_settings_ingest] [managedSettings] effective policy resolved: source=none, bypassDisabled=false, serverFetchFailed=false, policyHelperConfigured=false, policyHelperAuthority=none, policyHelperFailed=false, policyHelperFailClosed=false, policyHelperContributedSandbox=false
+2026-11-09T11:46:55.420Z [INFO] [rust:otel] OTel session policy applied
+2026-11-09T11:46:55.445Z [INFO] Logged out
+2026-11-09T11:46:55.516Z [INFO] Init suggestion check completed
+2026-11-09T11:46:55.517Z [INFO] [rust:lsp::session_service] Resolved LSP telemetry consent {"telemetry_level":"off","source":"initial_auth","rotated_clients":0}
+2026-11-09T11:46:55.593Z [WARNING] [rust:rt_credential_sources::gh] Failed to run `gh auth token` {"error":"program path has no file name","program":""}
+2026-11-09T11:46:55.611Z [ERROR] Connecting to IDE MCP server: Visual Studio Code (c:\Users\Cosmin-IonutAlexandr\Downloads\WEB DEVELOPMENT\WebDevelopment\WebDevelopment)
+2026-11-09T11:46:55.664Z [ERROR] Connected to IDE MCP server: Visual Studio Code
+2026-11-09T11:46:55.669Z [WARNING] [rust:rmcp::service] response error {"id":"1","error":"ErrorData { code: ErrorCode(-32601), message: \"subscriptions/listen\", data: None }"}
+2026-11-09T11:46:55.670Z [WARNING] [rust:mcp::client] MCP server advertises list-change capabilities but refused subscriptions/listen; continuing without list-change subscriptions {"server":"Some(Implementation { name: \"ide\", title: None, version: \"0.0.1\", description: None, icons: None, website_url: None })","error":"MCP error -32601: subscriptions/listen","tools_list_changed":true,"prompts_list_changed":false,"resources_list_changed":false}
+2026-11-09T11:46:55.709Z [ERROR] Disconnecting from IDE MCP server: Visual Studio Code
+2026-11-09T11:46:55.722Z [ERROR] Disconnected from IDE MCP server
+2026-11-09T11:46:55.747Z [WARNING] [rust:rt_credential_sources::gh] Failed to run `gh auth token` {"error":"program path has no file name","program":""}
+2026-11-09T11:46:55.774Z [ERROR] Connecting to IDE MCP server: Visual Studio Code (c:\Users\Cosmin-IonutAlexandr\Downloads\WEB DEVELOPMENT\WebDevelopment\WebDevelopment)
+2026-11-09T11:46:55.781Z [ERROR] Connected to IDE MCP server: Visual Studio Code
+2026-11-09T11:46:55.784Z [WARNING] [rust:rmcp::service] response error {"id":"1","error":"ErrorData { code: ErrorCode(-32601), message: \"subscriptions/listen\", data: None }"}
+2026-11-09T11:46:55.784Z [WARNING] [rust:mcp::client] MCP server advertises list-change capabilities but refused subscriptions/listen; continuing without list-change subscriptions {"server":"Some(Implementation { name: \"ide\", title: None, version: \"0.0.1\", description: None, icons: None, website_url: None })","error":"MCP error -32601: subscriptions/listen","tools_list_changed":true,"prompts_list_changed":false,"resources_list_changed":false}
+2026-11-09T11:46:56.315Z [INFO] No update needed, current version is 1.0.107, fetched latest release is v1.0.107
+2026-11-09T12:00:40.372Z [ERROR] IDE disconnected unexpectedly: Visual Studio Code (source: lock file deleted)
+2026-11-09T12:00:40.588Z [INFO] [rust:copilot_runtime::session::registry] Closed interrupted sub-agent records on resume {"closed":0,"dangling":0}
+2026-11-09T12:00:40.618Z [INFO] Stopping embedded server
+2026-11-09T12:00:40.624Z [INFO] Unregistering foreground session: dce565a2-cc51-446f-b443-c86dd1ef5baf
+2026-11-09T12:00:40.626Z [ERROR] Disconnecting from IDE MCP server: Visual Studio Code
+2026-11-09T12:00:40.629Z [INFO] Starting graceful shutdown of CLI server
+2026-11-09T12:00:40.629Z [INFO] Destroying 0 active sessions
+2026-11-09T12:00:40.630Z [ERROR] Disconnected from IDE MCP server
+2026-11-09T12:00:40.634Z [INFO] Rust JSON-RPC engine stopped successfully
+2026-11-09T12:00:40.634Z [INFO] CLI server stopped successfully

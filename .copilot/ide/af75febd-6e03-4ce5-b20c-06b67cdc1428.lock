@@ -1,0 +1,14 @@
+{
+  "socketPath": "\\\\.\\pipe\\mcp-5055ea85-d949-47bc-b07c-d7d43a7873b9.sock",
+  "scheme": "pipe",
+  "headers": {
+    "Authorization": "Nonce 988863ad-7b14-45a9-874c-b8aaf3cc1415"
+  },
+  "pid": 6316,
+  "ideName": "Visual Studio Code",
+  "timestamp": 1794822575725,
+  "workspaceFolders": [
+    "c:\\Users\\Cosmin-IonutAlexandr\\Downloads\\WEB DEVELOPMENT\\WebDevelopment\\WebDevelopment"
+  ],
+  "isTrusted": true
+}
